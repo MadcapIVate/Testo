@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="True"
+  KeepSourceLinks="True"
+  ConvertInlineFormatting="false"
+  AddContinuedLinks="False"
+  AddContinuedFromLinks="False"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="False"
+  UseMinCharLimit="false"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="35"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2019-10-10T15:30:45.2712694-05:00"
+  AutoSync="true"
+  LastImport="2020-12-08T12:22:44.0729086-06:00">
+  <Files>
+    <Url
+      Source="../../../../Operations Manual/Acknowledgment of Culver.docx"
+      AbsoluteSource="file:///H:/Operations Manual/Acknowledgment of Culver.docx" />
+    <Url
+      Source="../../../../Operations Manual/Operations Manual User Guide.docx"
+      AbsoluteSource="file:///H:/Operations Manual/Operations Manual User Guide.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Disclaimer/Acknowledgment of Culver s Operations.htm"
+      TimeStamp="12/8/2020 12:22:43 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Operations Manual User Guide/Operations Manual User s Guide.jpg"
+      TimeStamp="12/8/2020 12:22:43 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Operations Manual User Guide/Operations Manual User s Guide_1.jpg"
+      TimeStamp="12/8/2020 12:22:43 PM" />
+    <Url
+      Source="../../Content/Disclaimer/Operations Manual User s Guide.htm"
+      TimeStamp="12/8/2020 12:22:43 PM" />
+    <Url
+      Source="../TOCs/Disclaimer.fltoc"
+      TimeStamp="12/8/2020 12:22:43 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Disclaimer.css"
+      TimeStamp="12/8/2020 12:22:43 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading1"
+      To="h1.(MS Word Style)" />
+    <Map
+      From="Heading2"
+      To="h2.(MS Word Style)" />
+    <Map
+      From="Heading3"
+      To="h3.(MS Word Style)" />
+    <Map
+      From="Heading4"
+      To="h4.(MS Word Style)" />
+    <Map
+      From="Heading5"
+      To="h5.(MS Word Style)" />
+    <Map
+      From="Heading6"
+      To="h6.(MS Word Style)" />
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+</MsWordImport>

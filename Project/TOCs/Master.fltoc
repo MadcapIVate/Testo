@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Acknowledgment of Culver’s Operations Manual"
+    Link="/Content/Disclaimer/Acknowledgment of Culver s Operations.htm" />
+  <TocEntry
+    Title="Operations Manual User’s Guide"
+    Link="/Content/Disclaimer/Operations Manual User s Guide.htm" />
+  <TocEntry
+    Title="The Culver's Story"
+    ReplaceMergeNode="false"
+    Link="../../../../Operations_Manual_Web/Story/Output/HTML5/Story.mcwebhelp"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    FrameName=""
+    AbsoluteLink="file:///H:/Operations_Manual_Web/Story/Output/HTML5/Story.mcwebhelp"></TocEntry>
+  <TocEntry
+    Title="Recruiting, Hiring and Retention"
+    Link="../../../../Operations_Manual_Web/Hiring/Output/HTML5/Recruiting, Hiring and Retention.mcwebhelp"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    AbsoluteLink="file:///H:/Operations_Manual_Web/Hiring/Output/HTML5/Recruiting, Hiring and Retention.mcwebhelp" />
+  <TocEntry
+    Title="Team Training and Development"
+    Link="../../../../Operations_Manual_Web/Team Development/Output/HTML5/Team Training and Development.mcwebhelp"
+    ReplaceMergeNode="false"
+    AbsoluteLink="file:///H:/Operations_Manual_Web/Team Development/Output/HTML5/Team Training and Development.mcwebhelp" />
+  <TocEntry
+    Title="Guest Service and Hospitality"
+    Link="../../../../Operations_Manual_Web/Guest Service/Output/HTML5/Guest Service and Hospitality.mcwebhelp"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    AbsoluteLink="file:///H:/Operations_Manual_Web/Guest Service/Output/HTML5/Guest Service and Hospitality.mcwebhelp" />
+  <TocEntry
+    Title="Daily Operating Procedures"
+    Link="../../../../Operations_Manual_Web/Daily Operating Procedures/Output/HTML5/Daily Operating Procedures.mcwebhelp"
+    AbsoluteLink="file:///H:/Operations_Manual_Web/Daily Operating Procedures/Output/HTML5/Daily Operating Procedures.mcwebhelp" />
+  <TocEntry
+    Title="Recipes and Product Builds"
+    Link="../../../../Operations_Manual_Web/Recipes/Output/HTML5/Recipe and Product Builds.mcwebhelp"
+    AbsoluteLink="file:///H:/Operations_Manual_Web/Recipes/Output/HTML5/Recipe and Product Builds.mcwebhelp" />
+  <TocEntry
+    Title="Marketing and Public Relations"
+    Link="../../../../Operations_Manual_Web/Marketing/Output/HTML5/Marketing and Public Relations.mcwebhelp"
+    AbsoluteLink="file:///H:/Operations_Manual_Web/Marketing/Output/HTML5/Marketing and Public Relations.mcwebhelp" />
+  <TocEntry
+    Title="Safety and Security"
+    Link="../../../../Operations_Manual_Web/Safety/Output/HTML5/Safety and Security.mcwebhelp"
+    AbsoluteLink="file:///H:/Operations_Manual_Web/Safety/Output/HTML5/Safety and Security.mcwebhelp" />
+  <TocEntry
+    Title="Facilities and Equipment"
+    Link="../../../../Operations_Manual_Web/Facilities/Output/HTML5/Facilities and Equipment.mcwebhelp"
+    AbsoluteLink="file:///H:/Operations_Manual_Web/Facilities/Output/HTML5/Facilities and Equipment.mcwebhelp" />
+  <TocEntry
+    Title="Back Office Management Systems"
+    Link="../../../../Operations_Manual_Web/Back Office/Output/HTML5/Back Office Management Systems.mcwebhelp"
+    AbsoluteLink="file:///H:/Operations_Manual_Web/Back Office/Output/HTML5/Back Office Management Systems.mcwebhelp"></TocEntry>
+  <TocEntry
+    Title="Accounting Management"
+    Link="../../../../Operations_Manual_Web/Accounting/Output/HTML5/Accounting Management.mcwebhelp"
+    AbsoluteLink="file:///H:/Operations_Manual_Web/Accounting/Output/HTML5/Accounting Management.mcwebhelp"></TocEntry>
+  <TocEntry
+    Title="Expansion, Construction, Renewal and Resale"
+    Link="../../../../Operations_Manual_Web/Restaurant Expansion/Output/HTML5/Expansion.mcwebhelp"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    AbsoluteLink="file:///H:/Operations_Manual_Web/Restaurant Expansion/Output/HTML5/Expansion.mcwebhelp"></TocEntry>
+  <TocEntry
+    Title="Resource Directory"
+    Link="../../../../Operations_Manual_Web/Resource Directory/Output/HTML5/Resource Directory.mcwebhelp"
+    AbsoluteLink="file:///H:/Operations_Manual_Web/Resource Directory/Output/HTML5/Resource Directory.mcwebhelp" />
+</CatapultToc>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap PDF Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  OutputFolder="H:\Operations_Manual_PDF"
+  MasterToc="/Project/TOCs/Master.fltoc"
+  OutputFile="Ops Manaul"
+  GetLatestBeforeCompile="true">
+  <PrintedOutput
+    CollapseMargins="true" />
+</CatapultTarget>

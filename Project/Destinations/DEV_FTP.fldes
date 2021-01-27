@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="173.229.2.137"
+  User="gregriesterer"
+  Password="VanillaChocolate2012!"
+  Directory="Operations-Manual"
+  Port="21"
+  ViewUrl="https://173.229.2.137"
+  Type="ftp"
+  UploadLogFile="false"
+  RemoveStale="false"
+  ChangedOnly="false"></CatapultDestination>

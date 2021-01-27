@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>Back office software</Term>
+    </Terms>
+    <Definition
+      Link="">Software accessed on the Internet that is used to manage inventory, labor scheduling, and cash.  This is currently provided by JDA software, but formerly was known as RedPrairie, BlueCube, and Radiant.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>IE</Term>
+    </Terms>
+    <Definition
+      Link="">Abbreviation for Internet Explorer, a web browser</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>KPS</Term>
+    </Terms>
+    <Definition
+      Link="">Abbreviation for Kitchen Production System, includes the monitors, printers and bump bars that are in the kitchen of the restaurant</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Substitution Pricing</Term>
+    </Terms>
+    <Definition
+      Link="">Price to substitute an item in a combo such as value baskets, kids meals, dinners, and salads.  An example would be to substitute onion rings for fries in a value basket or milk for a soda in a kids meal.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Site Controller</Term>
+    </Terms>
+    <Definition
+      Link="">Part of the NCR (formerly Radiant Systems) point of sale system.  It is a computer that is typically mounted in the office.  It is the server that manages all of the point of sale system.</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>
